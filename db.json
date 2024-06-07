@@ -1,0 +1,726 @@
+{
+  "product": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=550",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "type": "Regular",
+      "color": "Millennial Pink",
+      "use": "DETANGLING",
+      "id": "e66e"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0012_TUDF_FJadeLagoon1.jpg?v=1713530314&width=550",
+      "productname": "The Ultimate Detangler Fine & Fragile",
+      "price": "£14.00",
+      "type": "Regular",
+      "color": "Jade Lagoon",
+      "use": "DETANGLING",
+      "id": "0912"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0007_TUDNCPurplePassion1.jpg?v=1706281241&width=550",
+      "productname": "The Ultimate Detangler Naturally Curly",
+      "price": "£14.00",
+      "type": "Regular",
+      "color": "Purple Passion",
+      "use": "DETANGLING",
+      "id": "baef"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/WTC_0007s_0000_Lilac_WTD_HeroImage.jpg?v=1706112452&width=550",
+      "productname": "Wide Tooth Comb",
+      "price": "£13.00",
+      "use": "DETANGLING",
+      "color": "Purple Passion",
+      "id": "923c"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1.jpg?v=1706469668&width=550",
+      "productname": "The Original",
+      "price": "£14.00",
+      "type": "Regular",
+      "use": "DETANGLING",
+      "color": "Pink Fizz",
+      "id": "8a3c"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0007_OriginalF_FPinkDawn1_450x.jpg?v=1707839946&width=550",
+      "productname": "The Original Fine & Fragile",
+      "price": "£14.00",
+      "use": "styling",
+      "color": "Pink Dawn",
+      "id": "1239"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0013_OriginalT_CSalsaRed1_450x.jpg?v=1707840010&width=550",
+      "productname": "The Original Thick & Curly",
+      "price": "£14.00",
+      "use": "DETANGLING",
+      "color": "Salsa Red",
+      "id": "53f7"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0000_PlantBrush_OR_MarshmallowPink_HeroImage_450x.jpg?v=1706473754&width=550",
+      "productname": "The Original Plant Brush",
+      "price": "£17.00",
+      "use": "DETANGLING",
+      "color": "Marshmallow ",
+      "id": "f1bc"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1_450x.jpg?v=1706281537&width=550",
+      "productname": "The Original Mini",
+      "price": "£10.50",
+      "size": "Mini",
+      "use": "DETANGLING",
+      "color": "Rainbow the ",
+      "id": "7419"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Compactstyler_0000s_0003s_0018_HoloHero_450x.jpg?v=1706543074&width=550",
+      "productname": "Compact Styler",
+      "price": "£16.00",
+      "use": "DETANGLING",
+      "color": "Holo Hero",
+      "id": "eea9"
+    }
+  ],
+  "product_one": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0000_FineMistSprayBottle_Pink_1.jpg?v=1706198818&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0001_FineMistSprayBottle_Pink_2Frame.jpg?v=1706198817&width=550",
+      "productname": "Fine Mist Spray Bottle",
+      "price": "£12.00",
+      "use": "styling",
+      "color": "Pink",
+      "id": "4a50"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1.jpg?v=1706281537&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Originalmini_0000s_0001s_0003_RainbowtheUnicorn2.jpg?v=1706281537&width=550",
+      "productname": "The Original Mini",
+      "use": "styling",
+      "price": "£10.50",
+      "color": "Rainbow the ",
+      "id": "a29b"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Compactstyler_0000s_0003s_0018_HoloHero.jpg?v=1706543074&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_Compactstyler.png?v=1706543074&width=550",
+      "productname": "Compact Styler",
+      "price": "£16.00",
+      "use": "styling",
+      "color": "Holo Hero",
+      "id": "d042"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink.jpg?v=1706114517&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0002s_0001_HeroImage_SR_PrettyPink.jpg?v=1706114517&width=550",
+      "productname": "The Scalp Exfoliator & Massager",
+      "price": "£12.00",
+      "use": "styling",
+      "color": "Pretty Pink",
+      "id": "48ec"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_TUVH_0000s_0002s_0000_EDG_MillennialPink_8_450x.jpg?v=1709916120",
+      "productname": "Easy Dry & Go",
+      "price": "£16.00",
+      "use": "styling",
+      "color": "TICKLED PINK",
+      "id": "02aa"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0009_Large_Brush_Rotation_2.jpg?v=1706199248&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0008_Large_Brush_Rotation_1.jpg?v=1706478397&width=550",
+      "productname": "Smoothing Tool",
+      "price": "£29.99",
+      "use": "styling",
+      "color": "Blue/Cream",
+      "id": "ea65"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0001_Round_Styling_Brush_Large_front.jpg?v=1706481362&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Lifestyle_0018s_0001_Round-Tool-Large.png?v=1706481362&width=550",
+      "productname": "Round Tool",
+      "price": "£29.99",
+      "use": "styling",
+      "color": "Black/White",
+      "id": "4309"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0002s_0003_SweetPink_TUS_Angle7.jpg?v=1713530340&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0000s_0003_SweetPink_TUS_Angle6.jpg?v=1713530340&width=550",
+      "productname": "The Ultimate Styler",
+      "price": "£15.00",
+      "use": "styling",
+      "color": "Sweet Pink",
+      "id": "7e2b"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0005_PinkEmbrace_7.jpg?v=1713530390&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0004_PinkEmbrace_1.jpg?v=1713530390&width=550",
+      "productname": "The Ultimate Teaser",
+      "price": "£13.00",
+      "use": "styling",
+      "color": "Pink Embrace",
+      "id": "8cd2"
+    }
+  ],
+  "product_one_upper": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=550",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "type": "Regular",
+      "use": "DETANGLING",
+      "color": "Millennial Pink",
+      "id": "bce5"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1.jpg?v=1706469668&width=550",
+      "productname": "The Original",
+      "price": "£14.00",
+      "use": "DETANGLING",
+      "type": "Regular",
+      "color": "Pink Fizz",
+      "id": "6ebd"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0000_PlantBrush_OR_MarshmallowPink_HeroImage_450x.jpg?v=1706473754&width=550",
+      "productname": "The Original Plant Brush",
+      "price": "£17.00",
+      "use": "DETANGLING",
+      "color": "Marshmallow ",
+      "id": "12f6"
+    }
+  ],
+  "product_nav": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0000s_0000_FineMedium_DetangingSpray_Front_450x.jpg?v=1707849775",
+      "productname": "Everyday Detangling Spray Wheat Protein",
+      "price": "£8.00",
+      "use": "DETANGLING",
+      "id": "46cf"
+    }
+  ],
+  "nav-two-product": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0001_Round_Styling_Brush_Large_front.jpg?v=1706481362&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Lifestyle_0018s_0001_Round-Tool-Large.png?v=1706481362&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "blow drying",
+      "productname": "Round Tool",
+      "price": "£29.99",
+      "color": " BLAKC/WHITE",
+      "id": "dd24"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_TUVH_0000s_0002s_0000_EDG_MillennialPink_8.jpg?v=1709916120&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUVH_0000s_0000s_0005_EDG_MillennialPink_5.jpg?v=1709916120&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "blow drying",
+      "productname": "The Ultimate Blow-Dry",
+      "price": "£16.00",
+      "color": " TICKLED PINK",
+      "id": "bdfd"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0005_PinkEmbrace_7.jpg?v=1713530390&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0004_PinkEmbrace_1.jpg?v=1713530390&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "The Ultimate Volumizer",
+      "price": "£13.00",
+      "color": " PINK EMBRANCE",
+      "id": "d691"
+    }
+  ],
+  "product-two": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0000_FineMistSprayBottle_Pink_1.jpg?v=1706198818&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0001_FineMistSprayBottle_Pink_2Frame.jpg?v=1706198817&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "",
+      "productname": "Fine Mist Spray Bottle",
+      "price": "£12.00",
+      "color": " PINK",
+      "id": "5503"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0005_PinkEmbrace_7.jpg?v=1713530390&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0004_PinkEmbrace_1.jpg?v=1713530390&width=550",
+      "productname": "The Ultimate Teaser",
+      "price": "£13.00",
+      "use": "styling",
+      "color": "Pink Embrace",
+      "id": "8cd2"
+    }
+  ],
+  "product-two-one-part": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION",
+      "id": "b76e"
+    }
+  ],
+  "nav-three-section-one": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=800",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "DETANGLING",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "color": "Millennial Pink",
+      "id": "d6c5"
+    }
+  ],
+  "nav-three-section-two": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1_450x.jpg?v=1706469668",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "DETANGLING",
+      "productname": "The Original",
+      "price": "£14.00",
+      "color": "Pink Fizz",
+      "id": "0c35"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink_450x.jpg?v=1706114517",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "DETANGLING",
+      "productname": "The Scalp Exfoliator & Massager",
+      "price": "£12.00",
+      "color": "Pretty Pink",
+      "id": "4e74"
+    }
+  ],
+  "nav-three-section-three": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_TUVH_0000s_0002s_0000_EDG_MillennialPink_8.jpg?v=1709916120&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUVH_0000s_0000s_0005_EDG_MillennialPink_5.jpg?v=1709916120&width=550",
+      "use": "blow drying",
+      "productname": "The Ultimate Blow-Dry",
+      "price": "£16.00",
+      "size": "Regular",
+      "color": "Tickled Pink",
+      "id": "88b6"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0007_TUDNCPurplePassion1.jpg?v=1706281241&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0001s_0008_TUDNCPurplePassion3.jpg?v=1713530321&width=550",
+      "use": "detangling",
+      "productname": "The Ultimate Detangler Naturally Curly",
+      "price": "£14.00",
+      "size": "Regular",
+      "color": "Purple Passion",
+      "id": "88d9"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink.jpg?v=1706114517&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0002s_0001_HeroImage_SR_PrettyPink.jpg?v=1706114517&width=550",
+      "use": "wellness",
+      "productname": "The Scalp Exfoliator & Massager",
+      "price": "£12.00",
+      "size": "",
+      "color": "Pretty Pink",
+      "id": "59ff"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0012_TUDF_FJadeLagoon1.jpg?v=1713530314&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0001s_0010_TUDF_FJadeLagoon3.jpg?v=1713530314&width=550",
+      "use": "detangling",
+      "productname": "The Ultimate Detangler Fine & Fragile",
+      "price": "£14.00",
+      "size": "Regular",
+      "color": "Jade Lagoon",
+      "id": "4bc4"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0001s_0001_Thick_Curly_DetanglingCreamSpray_Front.jpg?v=1707850202&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0001s_0000_ThickCurlyDetanglingSpray_Back.jpg?v=1707850202&width=550",
+      "use": "",
+      "productname": "Everyday Detangling Spray Shea Butter",
+      "price": "£8.00",
+      "size": "",
+      "color": "",
+      "id": "adb4"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0013_OriginalT_CSalsaRed1.jpg?v=1707840010&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0013_OriginalT_CSalsaRed2.jpg?v=1707840010&width=550",
+      "use": "detangling",
+      "productname": "The Original Thick & Curly",
+      "price": "£14.00",
+      "size": "",
+      "color": "Salsa Red",
+      "id": "8c07"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1.jpg?v=1706469668&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0025_OriginalPinkFizz2.jpg?v=1706469668&width=550",
+      "use": "detangling",
+      "productname": "The Original",
+      "price": "£14.00",
+      "size": "Regular",
+      "color": "Pink Fizz",
+      "id": "a8d2"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1.jpg?v=1706281537&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Originalmini_0000s_0001s_0003_RainbowtheUnicorn2.jpg?v=1706281537&width=550",
+      "use": "detangling",
+      "productname": "The Original Mini",
+      "price": "£10.50",
+      "size": "Mini",
+      "color": "Rainbow the Unicorn",
+      "id": "6a63"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0002s_0000_KIDS_DetanglingSpray_Front.jpg?v=1707848178&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0002s_0001_KIDS_DetanglingSpray_Back.jpg?v=1707848179&width=550",
+      "use": "",
+      "productname": "Everyday Detangling Spray Kids",
+      "price": "£6.00",
+      "size": "",
+      "color": "",
+      "id": "f413"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0002s_0003_SweetPink_TUS_Angle7.jpg?v=1713530340&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0000s_0003_SweetPink_TUS_Angle6.jpg?v=1713530340&width=550",
+      "use": "styling",
+      "productname": "The Ultimate Styler",
+      "price": "£15.00",
+      "size": "",
+      "color": "Sweet Pink",
+      "id": "f01a"
+    }
+  ],
+  "description": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=800",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "DETANGLING",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "color": "Millennial Pink",
+      "id": "8f9d"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink.jpg?v=1706114517&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0002s_0001_HeroImage_SR_PrettyPink.jpg?v=1706114517&width=550",
+      "use": "wellness",
+      "productname": "The Scalp Exfoliator & Massager",
+      "price": "£12.00",
+      "size": "",
+      "color": "Pretty Pink",
+      "id": "4bc1"
+    }
+  ],
+  "DESCRIPTION_DATA": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1.jpg?v=1706469668&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0025_OriginalPinkFizz2.jpg?v=1706469668&width=550",
+      "use": "detangling",
+      "productname": "The Original",
+      "price": "£14.00",
+      "size1": "Regular",
+      "size2": "Regular",
+      "color": "Pretty Pink",
+      "id": "632d"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "size1": "",
+      "size2": "",
+      "color": " PINK",
+      "id": "2f93"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0012_TUDF_FJadeLagoon1.jpg?v=1713530314&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0001s_0010_TUDF_FJadeLagoon3.jpg?v=1713530314&width=550",
+      "use": "detangling",
+      "productname": "The Ultimate Detangler Fine & Fragile",
+      "price": "£14.00",
+      "size1": "Regular",
+      "size2": "Regular",
+      "color": " PURPLE PASSION",
+      "id": "7b34"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0002s_0003_SweetPink_TUS_Angle7.jpg?v=1713530340&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0000s_0003_SweetPink_TUS_Angle6.jpg?v=1713530340&width=550",
+      "use": "styling",
+      "productname": "The Ultimate Styler",
+      "price": "£15.00",
+      "size1": "",
+      "size2": "",
+      "color": "Blue/Cream",
+      "id": "dea5"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_TUVH_0000s_0002s_0000_EDG_MillennialPink_8.jpg?v=1709916120&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUVH_0000s_0000s_0005_EDG_MillennialPink_5.jpg?v=1709916120&width=550",
+      "use": "blow drying",
+      "productname": "The Ultimate Blow-Dry",
+      "price": "£16.00",
+      "size1": "Regular",
+      "size2": "",
+      "color": "Sweet Pink",
+      "id": "af6f"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0049_TUDMillenialPink3.jpg?v=1713530513&width=550",
+      "use": "detangling",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "size1": "Regular",
+      "size2": "",
+      "color": "Millennial Pink",
+      "id": "24b8"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0009_Large_Brush_Rotation_2.jpg?v=1706199248&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0008_Large_Brush_Rotation_1.jpg?v=1706478397&width=550",
+      "use": "blow drying",
+      "productname": "Smoothing Tool",
+      "price": "£29.99",
+      "size1": "Large",
+      "size2": "Large",
+      "color": "Salsa Red",
+      "id": "5a05"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0007_OriginalF_FPinkDawn1.jpg?v=1707839946&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0007_OriginalF_FPinkDawn3.jpg?v=1707839946&width=550",
+      "use": "detangling",
+      "productname": "The Original Fine & Fragile",
+      "price": "£14.00",
+      "size1": "",
+      "size2": "",
+      "color": "Purple Passion",
+      "id": "3b9c"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0007_TUDNCPurplePassion1.jpg?v=1706281241&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0001s_0008_TUDNCPurplePassion3.jpg?v=1713530321&width=550",
+      "use": "detangling",
+      "productname": "The Ultimate Detangler Naturally Curly",
+      "price": "£14.00",
+      "size1": "Regular",
+      "size2": "Regular",
+      "color": " BLAKC/WHITE",
+      "id": "dde7"
+    },
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Compactstyler_0000s_0003s_0018_HoloHero_750x.jpg?v=1706543074",
+      "image2": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "use": "DETAILING",
+      "productname": "Compact Styler",
+      "price": "£16.00",
+      "size1": "",
+      "size2": "",
+      "color": "Holo Hero",
+      "id": "072a"
+    }
+  ],
+  "pet-data-": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0002s_0002_Detanglingyellowpink_450x.jpg?v=1706285697",
+      "image2": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "use": "DETAILING",
+      "productname": "Detangling Dog Grooming Brush",
+      "price": "£13.00",
+      "size1": "",
+      "size2": "",
+      "color": "PINK & YELLOW",
+      "id": "b584"
+    }
+  ],
+  "pet-data-second": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0002s_0003_Desheddingpurple_450x.jpg?v=1706285296",
+      "image2": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "use": "DETAILING",
+      "productname": "De-shedding Dog Grooming Brush",
+      "price": "£13.00",
+      "size1": "",
+      "size2": "",
+      "color": "PURPLE & GREY",
+      "id": "35c5"
+    }
+  ],
+  "pet-data-three": [
+    {
+      "image": "https://tangleteezer.com/cdn/shop/files/Pet_0001s_0001_FrontLeft_450x.jpg?v=1706285935",
+      "image2": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "use": "DETAILING",
+      "productname": "Puppy Brush",
+      "price": "£11.00",
+      "size1": "",
+      "size2": "",
+      "color": "PISTACHO",
+      "id": "f090"
+    }
+  ],
+  "cart": [
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "8cd2",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0005_PinkEmbrace_7.jpg?v=1713530390&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0004_PinkEmbrace_1.jpg?v=1713530390&width=550",
+      "productname": "The Ultimate Teaser",
+      "price": "£13.00",
+      "use": "styling",
+      "color": "Pink Embrace"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "b76e",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pick2.jpg?v=1706114243&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Pick1.jpg?v=1706114243&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "styling",
+      "productname": "Hair Pick",
+      "price": "£11.00",
+      "color": " PURPLE PASSION"
+    },
+    {
+      "id": "5503",
+      "image": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0000_FineMistSprayBottle_Pink_1.jpg?v=1706198818&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0001_FineMistSprayBottle_Pink_2Frame.jpg?v=1706198817&width=550",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "",
+      "productname": "Fine Mist Spray Bottle",
+      "price": "£12.00",
+      "color": " PINK"
+    },
+    {
+      "id": "f090",
+      "image": "https://tangleteezer.com/cdn/shop/files/Pet_0001s_0001_FrontLeft_450x.jpg?v=1706285935",
+      "image2": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "use": "DETAILING",
+      "productname": "Puppy Brush",
+      "price": "£11.00",
+      "size1": "",
+      "size2": "",
+      "color": "PISTACHO"
+    },
+    {
+      "id": "4e74",
+      "image": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink_450x.jpg?v=1706114517",
+      "url": "https://tangleteezer.com/collections/for-volume",
+      "use": "DETANGLING",
+      "productname": "The Scalp Exfoliator & Massager",
+      "price": "£12.00",
+      "color": "Pretty Pink"
+    },
+    {
+      "id": "a29b",
+      "image": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1.jpg?v=1706281537&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/Originalmini_0000s_0001s_0003_RainbowtheUnicorn2.jpg?v=1706281537&width=550",
+      "productname": "The Original Mini",
+      "use": "styling",
+      "price": "£10.50",
+      "color": "Rainbow the "
+    },
+    {
+      "id": "bce5",
+      "image": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1706457202&width=550",
+      "productname": "The Ultimate Detangler",
+      "price": "£14.00",
+      "type": "Regular",
+      "use": "DETANGLING",
+      "color": "Millennial Pink"
+    },
+    {
+      "id": "7e2b",
+      "image": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0002s_0003_SweetPink_TUS_Angle7.jpg?v=1713530340&width=550",
+      "image2": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0000s_0003_SweetPink_TUS_Angle6.jpg?v=1713530340&width=550",
+      "productname": "The Ultimate Styler",
+      "price": "£15.00",
+      "use": "styling",
+      "color": "Sweet Pink"
+    }
+  ]
+}
