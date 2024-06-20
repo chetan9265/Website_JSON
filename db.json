@@ -722,5 +722,29 @@
       "use": "styling",
       "color": "Sweet Pink"
     }
+  ],"spray":[
+    {
+      "images": 
+           "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0002s_0000_KIDS_DetanglingSpray_Front.jpg?v=1707848178&width=550",
+      
+      "link": "https://tangleteezer.com/collections/everyday-detangling-sprays",
+      "description": "Everyday Detangling Spray Kids",
+      "price": "£6.00"
+  },
+  {
+      "images": 
+           "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0000s_0000_FineMedium_DetangingSpray_Front.jpg?v=1707849775&width=550",
+      "link": "https://tangleteezer.com/collections/everyday-detangling-sprays",
+      "description": "Everyday Detangling Spray Wheat Protein",
+      "price": "£8.00"
+  },
+  {
+      "images": 
+          "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0001s_0001_Thick_Curly_DetanglingCreamSpray_Front.jpg?v=1707850202&width=550",
+      "link": "https://tangleteezer.com/collections/everyday-detangling-sprays",
+      "description": "Everyday Detangling Spray Shea Butter",
+      "price": "£8.00"
+  }
   ]
-}
+    
+  }
